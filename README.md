@@ -9,7 +9,7 @@ Use following command to compile the program
 gcc main.c `pkg-config --cflags gtk+-3.0` -o Clock `pkg-config --libs gtk+-3.0`
 ```
 ### Install
-This project can be installed by running the `install.sh` file in terminal
+This repository is included with the compiled binary file so it can be installed by running the `install.sh` file in terminal
 
 ### Uninstall
 The repository contains the file to uninstall the project simply run the `uninstall.sh`
