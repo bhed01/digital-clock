@@ -4,7 +4,7 @@ It a mini project on digital clock. It is made with C programming language using
 ![Screenshots](https://github.com/bhed01/digital-clock/blob/master/screenshots.png)
 
 ### Compile
-Use folling command to compile the program
+Use following command to compile the program
 ```
 gcc main.c `pkg-config --cflags gtk+-3.0` -o Clock `pkg-config --libs gtk+-3.0`
 ```
